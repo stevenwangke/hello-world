@@ -35,7 +35,10 @@ _一盏灯_
 
 [百度](http://www.baidu.com)
 
-![](http://pic2.qiyipic.com/image/20141223/18/0d/a_100008748_m_601_m3_195_260.jpg)
+
+![](http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1)
+
+
 # 一级标题
 ## 二级标题
 ### 三级标题
